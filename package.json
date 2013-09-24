@@ -1,0 +1,17 @@
+{
+  "name": "hashbangshoot",
+  "version": "0.1.0",
+  "description": "HashBangShoot the minimal online shooter",
+  "main": "lib/shoot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raymond Julin",
+  "license": "MIT",
+  "devDependencies": {
+    "load-grunt-tasks": "~0.1.0",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt": "~0.4.1",
+    "grunt-contrib-connect": "~0.5.0"
+  }
+}
